@@ -27,6 +27,7 @@
 <br />
 <br />
 
+---
 <img align="left" alt="AFN status on GitHub" src="https://github-readme-stats.vercel.app/api?username=AyupovFN&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
@@ -38,3 +39,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+---
