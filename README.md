@@ -12,13 +12,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="ruby"  width="36px"  src="src/ruby.png" />
-<img align="left" alt="ruby_on_rails"  width="36px"  src="src/ruby_on_rails.png" />
-<img align="left" alt="heroku"  width="36px"  src="src/heroku.png" />
-<img align="left" alt="rubymine"  width="36px"  src="src/rubymine.png" />
-<img align="left" alt="linux"  width="36px"  src="src/linux.png" />
-<img align="left" alt="rspec"  width="56px"  src="src/rspec.png" />
-<img align="left" alt="sap"  width="46px"  src="src/sap.png" />
+<img align="left" alt="ruby"  width="36px"  src="https://api.iconify.design/simple-icons:ruby.svg?color=red" />
+<img align="left" alt="ruby_on_rails"  width="36px"  src="https://api.iconify.design/simple-icons:rubyonrails.svg?color=red&height=24" />
+<img align="left" alt="heroku"  width="36px"  src="https://api.iconify.design/simple-icons:heroku.svg?color=%236762a6" />
+<img align="left" alt="linux"  width="36px"  src="https://api.iconify.design/simple-icons:linuxmint.svg?color=%23b3e483&height=24" />
+<img align="left" alt="sap"  width="36px"  src="https://api.iconify.design/simple-icons:sap.svg?color=%23003f86&height=24" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
