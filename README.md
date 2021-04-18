@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-## 💎 Ruby on Rails Developer. I'm open to offers!
+## 💎 Ruby on Rails Developer
 
 ### Connect with me:
 
