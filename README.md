@@ -1,4 +1,4 @@
-### Hi there, 👋
+### STOP WAR , 👋
 
 ## 💎 Ruby on Rails Developer
 
