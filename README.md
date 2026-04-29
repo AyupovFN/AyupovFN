@@ -1,5 +1,3 @@
-### STOP WAR , 👋
-
 ## 💎 Ruby on Rails Developer
 
 ### Connect with me:
